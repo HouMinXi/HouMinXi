@@ -17,6 +17,7 @@ jobs:
       - name: Generate PRs card
         uses: Daraan/pr-stats-action@v1
         with:
+          card: prs
           username: ${{ github.repository_owner }}
           theme: transparent
           path: profile/prs-
