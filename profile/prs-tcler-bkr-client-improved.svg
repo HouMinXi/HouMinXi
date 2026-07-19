@@ -1,0 +1,57 @@
+<svg
+  width="450" height="100"
+  viewBox="0 0 450 100"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-labelledby="title-tcler"
+>
+  <title id="title-tcler">bkr-client-improved PR Card</title>
+  <style>
+    .org-name {
+      font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #006AFF;
+    }
+    .stat {
+      font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #417E87;
+    }
+    .lang {
+      font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #417E87;
+    }
+  </style>
+  <rect
+    x="0.5" y="0.5"
+    rx="4.5"
+    width="449" height="99"
+    fill="#ffffff00"
+    stroke="#e4e2e2"
+    stroke-opacity="1"
+  />
+  <defs>
+        <clipPath id="avatar-clip-tcler">
+          <rect x="20" y="20" width="60" height="60" rx="8"/>
+        </clipPath>
+      </defs>
+      <rect x="20" y="20" width="60" height="60" rx="8" fill="#fff"/>
+      <image x="20" y="20" width="60" height="60"
+             href="data:image/png;base64,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" clip-path="url(#avatar-clip-tcler)"/>
+  <text x="95" y="42" class="org-name">bkr-client-improved</text>
+  <circle cx="350" cy="32" r="6" fill="#e4cc98"/>
+           <text x="362" y="36" class="lang">Tcl</text>
+  <g transform="translate(95, 58)">
+    <g transform="translate(0, 0)">
+      <svg viewBox="0 0 16 16" width="16" height="16" fill="#f1e05a">
+    <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25z"/>
+  </svg>
+      <text x="20" y="13" class="stat">14</text>
+    </g>
+    <g transform="translate(80, 0)">
+      <svg viewBox="0 0 16 16" width="16" height="16" fill="#8957e5">
+    <path d="M5.45 5.154A4.25 4.25 0 0 0 9.25 7.5h1.378a2.251 2.251 0 1 1 0 1.5H9.25A5.734 5.734 0 0 1 5 7.123v3.505a2.25 2.25 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.95-.218ZM4.25 13.5a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm8.5-4.5a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5ZM5 3.25a.75.75 0 1 0 0 .005V3.25Z"/>
+  </svg>
+      <text x="20" y="13" class="stat">46 merged</text>
+    </g>
+  </g>
+</svg>
