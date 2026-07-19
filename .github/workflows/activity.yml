@@ -1,0 +1,22 @@
+name: Update GitHub Activity
+
+on:
+  schedule:
+    - cron: "37 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesives/github-activity-readme@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: HouMinXi
+          MAX_LINES: 15
+          COMMIT_MSG: "chore: update activity"
