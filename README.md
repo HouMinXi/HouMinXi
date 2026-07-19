@@ -43,4 +43,7 @@ Linux kernel engineer working on networking, virtualization, and QA infrastructu
 
 ## External Contributions (auto-updated)
 
-![OmniRoute PRs](profile/prs-diegosouzapw.svg)
+![OmniRoute](profile/prs-diegosouzapw-OmniRoute.svg)
+![code-review-graph](profile/prs-tirth8205-code-review-graph.svg)
+![bkr-client-improved](profile/prs-tcler-bkr-client-improved.svg)
+![SmartDNS](profile/prs-pymumu-smartdns.svg)
