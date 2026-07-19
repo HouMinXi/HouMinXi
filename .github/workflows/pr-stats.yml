@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate PRs card
-        uses: Daraan/pr-stats-action@v1
+        uses: Daraan/pr-stats-action@main
         with:
           card: prs
           username: ${{ github.repository_owner }}
