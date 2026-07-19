@@ -24,7 +24,7 @@ Linux kernel engineer working on networking, virtualization, and QA infrastructu
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HouMinXi&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats-chi-one-29.vercel.app/api?username=HouMinXi&show_icons=true&theme=radical&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HouMinXi&theme=radical)
 
