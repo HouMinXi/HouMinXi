@@ -5,21 +5,21 @@ Linux kernel engineer working on networking, virtualization, and QA infrastructu
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14442](https://github.com/diegosouzapw/OmniRoute/pull/14442) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-2. 💪 Opened PR [#14438](https://github.com/diegosouzapw/OmniRoute/pull/14438) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-3. 💪 Opened PR [#14430](https://github.com/diegosouzapw/OmniRoute/pull/14430) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-4. 🎉 Merged PR [#14113](https://github.com/diegosouzapw/OmniRoute/pull/14113) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-5. 🎉 Merged PR [#13865](https://github.com/diegosouzapw/OmniRoute/pull/13865) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-6. 🗣 Commented on [#14266](https://github.com/diegosouzapw/OmniRoute/pull/14266#issuecomment-5763393308) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-7. 💪 Opened PR [#14310](https://github.com/diegosouzapw/OmniRoute/pull/14310) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-8. 🗣 Commented on [#14113](https://github.com/diegosouzapw/OmniRoute/pull/14113#issuecomment-5750966156) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-9. 🗣 Commented on [#14237](https://github.com/diegosouzapw/OmniRoute/pull/14237#issuecomment-5750965424) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-10. 🗣 Commented on [#13603](https://github.com/diegosouzapw/OmniRoute/pull/13603#issuecomment-5750947960) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-11. 💪 Opened PR [#14266](https://github.com/diegosouzapw/OmniRoute/pull/14266) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-12. 💪 Opened PR [#14260](https://github.com/diegosouzapw/OmniRoute/pull/14260) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-13. 🗣 Commented on [#13065](https://github.com/diegosouzapw/OmniRoute/pull/13065#issuecomment-5749321801) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-14. 🗣 Commented on [#11804](https://github.com/diegosouzapw/OmniRoute/issues/11804#issuecomment-5746786830) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-15. 💪 Opened PR [#14237](https://github.com/diegosouzapw/OmniRoute/pull/14237) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+1. 🎉 Merged PR [#14260](https://github.com/diegosouzapw/OmniRoute/pull/14260) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+2. 🎉 Merged PR [#14201](https://github.com/diegosouzapw/OmniRoute/pull/14201) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+3. 💪 Opened PR [#14478](https://github.com/diegosouzapw/OmniRoute/pull/14478) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+4. 🎉 Merged PR [#14054](https://github.com/diegosouzapw/OmniRoute/pull/14054) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+5. 🗣 Commented on [#14474](https://github.com/diegosouzapw/OmniRoute/pull/14474#issuecomment-5774181813) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+6. 🗣 Commented on [#14266](https://github.com/diegosouzapw/OmniRoute/pull/14266#issuecomment-5774180669) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+7. 💪 Opened PR [#14474](https://github.com/diegosouzapw/OmniRoute/pull/14474) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+8. 🗣 Commented on [#14454](https://github.com/diegosouzapw/OmniRoute/pull/14454#issuecomment-5773762251) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+9. 💪 Opened PR [#14462](https://github.com/diegosouzapw/OmniRoute/pull/14462) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+10. 💪 Opened PR [#14454](https://github.com/diegosouzapw/OmniRoute/pull/14454) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+11. 🗣 Commented on [#14338](https://github.com/diegosouzapw/OmniRoute/issues/14338#issuecomment-5772665476) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+12. ❗ Opened issue [#14451](https://github.com/diegosouzapw/OmniRoute/issues/14451) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+13. 💪 Opened PR [#14449](https://github.com/diegosouzapw/OmniRoute/pull/14449) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+14. 🗣 Commented on [#14438](https://github.com/diegosouzapw/OmniRoute/pull/14438#issuecomment-5771755053) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+15. 💪 Opened PR [#14442](https://github.com/diegosouzapw/OmniRoute/pull/14442) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 <!--END_SECTION:activity-->
 
 ## Stats
