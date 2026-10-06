@@ -5,21 +5,21 @@ Linux kernel engineer working on networking, virtualization, and QA infrastructu
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#15672](https://github.com/diegosouzapw/OmniRoute/issues/15672) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-2. 🎉 Merged PR [#14725](https://github.com/diegosouzapw/OmniRoute/pull/14725) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-3. 💪 Opened PR [#15643](https://github.com/diegosouzapw/OmniRoute/pull/15643) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-4. 💪 Opened PR [#15642](https://github.com/diegosouzapw/OmniRoute/pull/15642) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-5. 💪 Opened PR [#15553](https://github.com/diegosouzapw/OmniRoute/pull/15553) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-6. ❗ Opened issue [#15552](https://github.com/diegosouzapw/OmniRoute/issues/15552) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-7. 💪 Opened PR [#15535](https://github.com/diegosouzapw/OmniRoute/pull/15535) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-8. 💪 Opened PR [#15516](https://github.com/diegosouzapw/OmniRoute/pull/15516) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-9. 💪 Opened PR [#15510](https://github.com/diegosouzapw/OmniRoute/pull/15510) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-10. 💪 Opened PR [#15505](https://github.com/diegosouzapw/OmniRoute/pull/15505) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-11. 💪 Opened PR [#15461](https://github.com/diegosouzapw/OmniRoute/pull/15461) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-12. 💪 Opened PR [#15454](https://github.com/diegosouzapw/OmniRoute/pull/15454) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-13. 💪 Opened PR [#15417](https://github.com/diegosouzapw/OmniRoute/pull/15417) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-14. 💪 Opened PR [#15416](https://github.com/diegosouzapw/OmniRoute/pull/15416) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-15. 💪 Opened PR [#15415](https://github.com/diegosouzapw/OmniRoute/pull/15415) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+1. 🎉 Merged PR [#15642](https://github.com/diegosouzapw/OmniRoute/pull/15642) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+2. 🎉 Merged PR [#15035](https://github.com/diegosouzapw/OmniRoute/pull/15035) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+3. 🎉 Merged PR [#15495](https://github.com/diegosouzapw/OmniRoute/pull/15495) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+4. 🎉 Merged PR [#15553](https://github.com/diegosouzapw/OmniRoute/pull/15553) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+5. 🎉 Merged PR [#15356](https://github.com/diegosouzapw/OmniRoute/pull/15356) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+6. 🎉 Merged PR [#15516](https://github.com/diegosouzapw/OmniRoute/pull/15516) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+7. 🎉 Merged PR [#15472](https://github.com/diegosouzapw/OmniRoute/pull/15472) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+8. 🎉 Merged PR [#15416](https://github.com/diegosouzapw/OmniRoute/pull/15416) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+9. 🎉 Merged PR [#15418](https://github.com/diegosouzapw/OmniRoute/pull/15418) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+10. 🎉 Merged PR [#15363](https://github.com/diegosouzapw/OmniRoute/pull/15363) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+11. 🎉 Merged PR [#15365](https://github.com/diegosouzapw/OmniRoute/pull/15365) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+12. 🎉 Merged PR [#15369](https://github.com/diegosouzapw/OmniRoute/pull/15369) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+13. 🎉 Merged PR [#15355](https://github.com/diegosouzapw/OmniRoute/pull/15355) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+14. 🎉 Merged PR [#15461](https://github.com/diegosouzapw/OmniRoute/pull/15461) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+15. 🎉 Merged PR [#15494](https://github.com/diegosouzapw/OmniRoute/pull/15494) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 <!--END_SECTION:activity-->
 
 ## Stats
