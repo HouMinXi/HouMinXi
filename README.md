@@ -5,21 +5,21 @@ Linux kernel engineer working on networking, virtualization, and QA infrastructu
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#291](https://github.com/HouMinXi/forge/pull/291) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-2. ❌ Closed PR [#26](https://github.com/HouMinXi/forge/pull/26) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-3. 🗣 Commented on [#26](https://github.com/HouMinXi/forge/pull/26#issuecomment-6396168336) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-4. 💪 Opened PR [#292](https://github.com/HouMinXi/forge/pull/292) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-5. 💪 Opened PR [#291](https://github.com/HouMinXi/forge/pull/291) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-6. 🎉 Merged PR [#261](https://github.com/HouMinXi/forge/pull/261) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-7. 🎉 Merged PR [#172](https://github.com/HouMinXi/forge/pull/172) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-8. 🔒 Closed issue [#150](https://github.com/HouMinXi/forge/issues/150) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-9. 🎉 Merged PR [#152](https://github.com/HouMinXi/forge/pull/152) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-10. 🔒 Closed issue [#177](https://github.com/HouMinXi/forge/issues/177) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-11. 🔒 Closed issue [#175](https://github.com/HouMinXi/forge/issues/175) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-12. 🎉 Merged PR [#151](https://github.com/HouMinXi/forge/pull/151) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-13. 🔒 Closed issue [#141](https://github.com/HouMinXi/forge/issues/141) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-14. 🗣 Commented on [#151](https://github.com/HouMinXi/forge/pull/151#issuecomment-6395486610) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-15. 🔒 Closed issue [#167](https://github.com/HouMinXi/forge/issues/167) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+1. 🗣 Commented on [#143268](https://github.com/NousResearch/hermes-agent/issues/143268#issuecomment-6398776393) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+2. 🗣 Commented on [#141206](https://github.com/NousResearch/hermes-agent/pull/141206#issuecomment-6398773727) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+3. 🔒 Closed issue [#18111](https://github.com/cheaper-inference/OmniRoute/issues/18111) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
+4. 🗣 Commented on [#18111](https://github.com/cheaper-inference/OmniRoute/issues/18111#issuecomment-6398273391) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
+5. ❗ Opened issue [#18111](https://github.com/cheaper-inference/OmniRoute/issues/18111) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
+6. 💪 Opened PR [#293](https://github.com/HouMinXi/forge/pull/293) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+7. 🎉 Merged PR [#291](https://github.com/HouMinXi/forge/pull/291) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+8. ❌ Closed PR [#26](https://github.com/HouMinXi/forge/pull/26) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+9. 🗣 Commented on [#26](https://github.com/HouMinXi/forge/pull/26#issuecomment-6396168336) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+10. 💪 Opened PR [#292](https://github.com/HouMinXi/forge/pull/292) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+11. 💪 Opened PR [#291](https://github.com/HouMinXi/forge/pull/291) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+12. 🎉 Merged PR [#261](https://github.com/HouMinXi/forge/pull/261) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+13. 🎉 Merged PR [#172](https://github.com/HouMinXi/forge/pull/172) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+14. 🔒 Closed issue [#150](https://github.com/HouMinXi/forge/issues/150) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+15. 🎉 Merged PR [#152](https://github.com/HouMinXi/forge/pull/152) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
 <!--END_SECTION:activity-->
 
 ## Stats
