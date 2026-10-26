@@ -5,21 +5,21 @@ Linux kernel engineer working on networking, virtualization, and QA infrastructu
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#299](https://github.com/HouMinXi/forge/pull/299) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-2. 🎉 Merged PR [#298](https://github.com/HouMinXi/forge/pull/298) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-3. 🎉 Merged PR [#297](https://github.com/HouMinXi/forge/pull/297) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-4. 🔒 Closed issue [#263](https://github.com/HouMinXi/forge/issues/263) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-5. 🎉 Merged PR [#296](https://github.com/HouMinXi/forge/pull/296) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-6. 🔒 Closed issue [#35](https://github.com/HouMinXi/forge/issues/35) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-7. 🎉 Merged PR [#295](https://github.com/HouMinXi/forge/pull/295) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-8. 🗣 Commented on [#17998](https://github.com/cheaper-inference/OmniRoute/pull/17998#issuecomment-6415175713) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
-9. 🎉 Merged PR [#294](https://github.com/HouMinXi/forge/pull/294) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-10. 💪 Opened PR [#299](https://github.com/HouMinXi/forge/pull/299) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-11. 💪 Opened PR [#298](https://github.com/HouMinXi/forge/pull/298) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-12. 💪 Opened PR [#297](https://github.com/HouMinXi/forge/pull/297) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-13. 💪 Opened PR [#18232](https://github.com/cheaper-inference/OmniRoute/pull/18232) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
-14. 💪 Opened PR [#296](https://github.com/HouMinXi/forge/pull/296) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-15. 💪 Opened PR [#295](https://github.com/HouMinXi/forge/pull/295) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+1. 🗣 Commented on [#145169](https://github.com/NousResearch/hermes-agent/issues/145169#issuecomment-6424054615) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+2. 💪 Opened PR [#300](https://github.com/HouMinXi/forge/pull/300) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+3. 🗣 Commented on [#145169](https://github.com/NousResearch/hermes-agent/issues/145169#issuecomment-6422393350) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+4. ❗ Opened issue [#145169](https://github.com/NousResearch/hermes-agent/issues/145169) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+5. 🎉 Merged PR [#299](https://github.com/HouMinXi/forge/pull/299) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+6. 🎉 Merged PR [#298](https://github.com/HouMinXi/forge/pull/298) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+7. 🎉 Merged PR [#297](https://github.com/HouMinXi/forge/pull/297) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+8. 🔒 Closed issue [#263](https://github.com/HouMinXi/forge/issues/263) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+9. 🎉 Merged PR [#296](https://github.com/HouMinXi/forge/pull/296) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+10. 🔒 Closed issue [#35](https://github.com/HouMinXi/forge/issues/35) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+11. 🎉 Merged PR [#295](https://github.com/HouMinXi/forge/pull/295) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+12. 🗣 Commented on [#17998](https://github.com/cheaper-inference/OmniRoute/pull/17998#issuecomment-6415175713) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
+13. 🎉 Merged PR [#294](https://github.com/HouMinXi/forge/pull/294) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+14. 💪 Opened PR [#299](https://github.com/HouMinXi/forge/pull/299) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+15. 💪 Opened PR [#298](https://github.com/HouMinXi/forge/pull/298) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
 <!--END_SECTION:activity-->
 
 ## Stats
