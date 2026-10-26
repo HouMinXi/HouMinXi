@@ -5,21 +5,21 @@ Linux kernel engineer working on networking, virtualization, and QA infrastructu
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17822](https://github.com/cheaper-inference/OmniRoute/pull/17822) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
-2. 💪 Opened PR [#18141](https://github.com/cheaper-inference/OmniRoute/pull/18141) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
-3. 💪 Opened PR [#18136](https://github.com/cheaper-inference/OmniRoute/pull/18136) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
-4. 🗣 Commented on [#143268](https://github.com/NousResearch/hermes-agent/issues/143268#issuecomment-6398776393) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-5. 🗣 Commented on [#141206](https://github.com/NousResearch/hermes-agent/pull/141206#issuecomment-6398773727) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-6. 🔒 Closed issue [#18111](https://github.com/cheaper-inference/OmniRoute/issues/18111) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
-7. 🗣 Commented on [#18111](https://github.com/cheaper-inference/OmniRoute/issues/18111#issuecomment-6398273391) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
-8. ❗ Opened issue [#18111](https://github.com/cheaper-inference/OmniRoute/issues/18111) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
-9. 💪 Opened PR [#293](https://github.com/HouMinXi/forge/pull/293) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-10. 🎉 Merged PR [#291](https://github.com/HouMinXi/forge/pull/291) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-11. ❌ Closed PR [#26](https://github.com/HouMinXi/forge/pull/26) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-12. 🗣 Commented on [#26](https://github.com/HouMinXi/forge/pull/26#issuecomment-6396168336) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-13. 💪 Opened PR [#292](https://github.com/HouMinXi/forge/pull/292) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-14. 💪 Opened PR [#291](https://github.com/HouMinXi/forge/pull/291) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
-15. 🎉 Merged PR [#261](https://github.com/HouMinXi/forge/pull/261) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+1. 🎉 Merged PR [#18046](https://github.com/cheaper-inference/OmniRoute/pull/18046) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
+2. 🎉 Merged PR [#17838](https://github.com/cheaper-inference/OmniRoute/pull/17838) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
+3. 🗣 Commented on [#17960](https://github.com/cheaper-inference/OmniRoute/pull/17960#issuecomment-6407363053) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
+4. ❗ Opened issue [#84](https://github.com/Factory-AI/factory/issues/84) in [Factory-AI/factory](https://github.com/Factory-AI/factory)
+5. ❗ Opened issue [#18184](https://github.com/cheaper-inference/OmniRoute/issues/18184) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
+6. 💪 Opened PR [#18183](https://github.com/cheaper-inference/OmniRoute/pull/18183) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
+7. 🎉 Merged PR [#17793](https://github.com/cheaper-inference/OmniRoute/pull/17793) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
+8. 🎉 Merged PR [#292](https://github.com/HouMinXi/forge/pull/292) in [HouMinXi/forge](https://github.com/HouMinXi/forge)
+9. 🎉 Merged PR [#17996](https://github.com/cheaper-inference/OmniRoute/pull/17996) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
+10. 🎉 Merged PR [#18004](https://github.com/cheaper-inference/OmniRoute/pull/18004) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
+11. 🎉 Merged PR [#18056](https://github.com/cheaper-inference/OmniRoute/pull/18056) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
+12. 🎉 Merged PR [#17822](https://github.com/cheaper-inference/OmniRoute/pull/17822) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
+13. 💪 Opened PR [#18141](https://github.com/cheaper-inference/OmniRoute/pull/18141) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
+14. 💪 Opened PR [#18136](https://github.com/cheaper-inference/OmniRoute/pull/18136) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
+15. 🗣 Commented on [#143268](https://github.com/NousResearch/hermes-agent/issues/143268#issuecomment-6398776393) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 <!--END_SECTION:activity-->
 
 ## Stats
