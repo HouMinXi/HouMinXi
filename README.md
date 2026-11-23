@@ -38,7 +38,7 @@ Linux kernel engineer working on networking, virtualization, and QA infrastructu
 - 🛡️ **surflare-watchdog** — VPN watchdog on N100 router — sing-box tproxy, nftables, SmartDNS, BPF keepalive
 - 📈 **ashare-lab** — A-share paper trading lab — qlib signal pipeline, 700+ tests, QMT integration
 
-> Last updated: 2026-11-16 13:09 UTC
+> Last updated: 2026-11-23 15:23 UTC
 <!--END_SECTION:contributions-->
 
 ## External Contributions (auto-updated)
